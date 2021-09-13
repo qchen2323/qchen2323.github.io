@@ -6,6 +6,6 @@ body{
 a{
     color: green;
 }
-nav{
-    background-color: red;
+.menuselection{
+    text-align: right;
 }
