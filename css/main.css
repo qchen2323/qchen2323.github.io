@@ -9,13 +9,13 @@ a{
 ol{
     list-style-type: none;
 }
-li{
+nav{
     background-color: lightskyblue;
 }
 .options li, .options a, .options a:visited{
     list-style-type: none;
     display: inline-block; 
-    color: white; 
+    color: black; 
     margin: 0px; 
     padding: 10px; 
 }
