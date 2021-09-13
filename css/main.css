@@ -8,10 +8,7 @@ a{
 }
 ol{
     list-style-type: none;
-}
-nav{
-    background-color: lightskyblue;
-}
+    
 .options li, .options a, .options a:visited{
     list-style-type: none;
     display: inline-block; 
