@@ -3,12 +3,12 @@ body{
     color: black;
 }
 a{
-    color: skyblue;
+    color: red;
     text-decoration: none;
 }
 ol{
     list-style-type: none;
-    
+
 .options li, .options a, .options a:visited{
     list-style-type: none;
     display: inline-block; 
