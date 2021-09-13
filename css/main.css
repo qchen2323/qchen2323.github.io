@@ -6,6 +6,10 @@ a:hover {
     color: blueviolet;
 }
 
+nav{
+    text-align: center;
+}
+
 img{
     box-align: center;
 }
