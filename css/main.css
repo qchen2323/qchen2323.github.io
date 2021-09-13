@@ -1,10 +1,8 @@
 body{
     width: auto;
-    color: black;
+    color: black; 
+    text-align: center;
 }
 a{
     color: green;
-}
-h1{
-    text-align: center;
 }
