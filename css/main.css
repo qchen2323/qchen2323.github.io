@@ -1,0 +1,52 @@
+body{
+    width: auto;
+    color: black;
+}
+a{
+    color: skyblue;
+    text-decoration: none;
+}
+ol{
+    list-style-type: none;
+}
+nav{
+    background-color: lightskyblue;
+}
+.options li, .options a, .options a:visited{
+    list-style-type: none;
+    display: inline-block; 
+    color: white; 
+    margin: 0px; 
+    padding: 10px; 
+}
+.options li:hover{
+    background-color: red;
+}
+.home{
+    position: absolute; 
+    display: block; 
+    left: 10px;
+    text-decoration: none;
+}
+.menuselection{
+    text-align: right;
+}
+section{
+    text-align: center;
+}
+
+[class*="col-"]{
+    width: 100%;
+}
+@media only screen and (min-width: 750px){
+    .col-1 {width: 10%;}
+    .col-2 {width: 20%;}
+    .col-3 {width: 30%;}
+    .col-4 {width: 40%;}
+    .col-5 {width: 50%;}
+    .col-6 {width: 56%;}
+    .col-7 {width: 70%;}
+    .col-8 {width: 80%;}
+    .col-9 {width: 90%;}
+    .col-10 {width: 100%;}
+  }
