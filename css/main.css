@@ -1,4 +1,4 @@
-body{
+.body{
     width: auto;
     color: black;
     text-align: center;
@@ -11,8 +11,6 @@ a{
 a:hover {
     color: blueviolet;
 }
-
-
 
 img{
     box-align: center;
