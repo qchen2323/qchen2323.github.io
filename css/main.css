@@ -4,31 +4,7 @@ body{
 }
 a{
     color: green;
-    text-decoration: none;
 }
-ol{
-    list-style-type: none;
-
-.options li, .options a, .options a:visited{
-    list-style-type: none;
-    display: inline-block; 
-    color: black; 
-    margin: 0px; 
-    padding: 10px; 
-}
-.options li:hover{
-    background-color: red;
-}
-.home{
-    position: absolute; 
-    display: block; 
-    left: 10px;
-    text-decoration: none;
-}
-.menuselection{
-    text-align: right;
-}
-section{
+h1{
     text-align: center;
 }
-
