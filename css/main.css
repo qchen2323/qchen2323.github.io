@@ -6,27 +6,8 @@ body{
 a{
     color: green;
 }
-nav{
-    background-color: lightskyblue;
-}
-.options li, .options a, .options a:visited{
-    list-style-type: none;
-    display: inline-block; 
-    color: white; 
-    margin: 0px; 
-    padding: 10px; 
-}
-.options li:hover{
-    background-color: red;
-}
-.home{
-    position: absolute; 
-    display: block; 
-    left: 10px;
-    text-decoration: none;
-}
-.menuselection{
-    text-align: right;
+a:hover {
+    color: blueviolet;
 }
 img{
     box-align: center;
