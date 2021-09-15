@@ -14,7 +14,7 @@ span.popular {
     color: red;
 }
  
-#Links {
+#follow {
     background-color: red;
   }
 
@@ -26,13 +26,8 @@ a:hover {
     color: blueviolet;
 }
 
-img{
-    box-align: center;
-}
-
 table, th, td {
     border: 1px solid black;
-    box-align: center;
 }
 
 @media only screen and (max-width: 600px) {
