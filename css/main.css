@@ -9,7 +9,12 @@
     background-color: lightblue;
     text-align: center;
   }
-  
+
+span.popular {
+    color: red;
+}
+
+
 a{
     color: green;
 }
